@@ -42,6 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "projects-anais-112",
+          title: 'ANAIS-112',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ANAIS-112/";
             },},{
         id: 'social-email',
         title: 'email',
