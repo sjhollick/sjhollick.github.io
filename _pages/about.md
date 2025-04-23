@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD, [Yale University](https://physics.yale.edu/), Postdoctoral Research Assistant at <a href='#'>Affiliations</a>. 
 
 profile:
   align: right
