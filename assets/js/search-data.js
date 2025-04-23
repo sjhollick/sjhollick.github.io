@@ -47,6 +47,11 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ANAIS-112/";
+            },},{id: "projects-cosine-100",
+          title: 'COSINE-100',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/COSINE-100/";
             },},{
         id: 'social-email',
         title: 'email',
