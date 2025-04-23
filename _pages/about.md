@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, incoming Postdoctoral Research Assistant at <a href='https://unizar.es/'>Universidad de Zaragoza</a>. 
 
