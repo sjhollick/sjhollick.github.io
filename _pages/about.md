@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, incoming Postdoctoral Research Assistant at <a href='https://capa.unizar.es/'>Universidad de Zaragoza</a>. 
+subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, incoming Postdoctoral Research Assistant at <a href='https://unizar.es/'>Universidad de Zaragoza</a>. 
 
 profile:
   align: right
@@ -15,8 +15,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Sophia, I'm an incoming Postdoctoral Researcher at the University of Zaragoza, and I completed my PhD at Yale University in March of 2025. My research specializes in experimental particle physics with a focus on the direct detection of dark matter and my [thesis](https://drive.google.com/file/d/1DBjGCs6tqjta5jr68nBfUv5woCraaMfK/view?usp=sharing) was on the combined search for the annual modulation of dark matter with the [COSINE-100](https://cosine.ibs.re.kr/) and [ANAIS-112](https://gifna.unizar.es/anais/) experiments.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The search for dark matter is still ongoing and this work requires the collaboration with researchers worldwide. My research has led me from the northeast United States, where I spent my formative years, to collaboration in South Korea with [COSINE-100](https://cosine.ibs.re.kr/), and to joining the research teams in Spain at the [CAPA](https://capa.unizar.es/) institute on [ANAIS-112](https://gifna.unizar.es/anais/) where I am currently based. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our recent works have ruled out the controversial dark matter [detection claim](https://jnpae.kinr.kyiv.ua/22.4/Articles_PDF/jnpae-2021-22-0329-Bernabei.pdf) by [DAMA/LIBRA](https://dama.web.roma2.infn.it/?page_id=64) that has persisted since 1997. These results can be seen in the selected publications below. 
