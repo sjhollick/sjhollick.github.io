@@ -11,17 +11,15 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Masters
       institution: Yale University
       year: 2025
       description:
         - Advisor -- Reina Maruyama
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.S. Physics, Summa Cum Laude
+      institution: Rensselaer Polytechnic Institute
+      year: 2020
+
 
 - title: Experience
   type: time_table
@@ -29,44 +27,23 @@
     - title: Graduate Research Assistant
       institution: Wright Laboratory, Yale University
       year: 2020 - 2025
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Visiting Researcher
       institution: University of Zaragoza
       year: 2023 - 2025
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Nuclear Physics Intern
+      institution: Brookhaven National Laboratory
+      year: Fall 2019, Summer 2020
+    - title: Plasma Physics Intern
+      institution: University of New Hampshire
+      year: 2016 - 2018
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
+        - International Workshop for Identification of Dark Matter (IDM) Young Scientist Support Grant 
+    - year: 2020
       items:
-        - Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Leigh Page Prize 
+        - G. Howard Carragan Award
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
