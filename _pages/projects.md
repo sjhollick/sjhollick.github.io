@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Under Construction
+title: Research Projects
 permalink: /Research Projects/
-description: Experiments I'm involved in and other personal projects.
-nav: true
+description: Under construction... 
 nav_order: 2
 display_categories: [work, fun]
 horizontal: true
