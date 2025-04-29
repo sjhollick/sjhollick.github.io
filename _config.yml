@@ -2,8 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-#title: blank # the website title (if blank, full name will be used instead)
-title: Please excuse the mess, we are under construction # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Sophia
 middle_name: J.
 last_name: Hollick
