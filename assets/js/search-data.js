@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "CV of Sophia J. Hollick, PhD -- Last Updated 24 April 2025",
+          description: "CV of Sophia J. Hollick, PhD -- Last Updated 25 June 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/CV/";
