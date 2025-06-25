@@ -6,7 +6,7 @@
     - name: Email
       value: sophia.hollick@yale.edu
     - name: Languages
-      value: English (Native), Spanish (B2), German (A2)
+      value: English (Native), Spanish (C1), German (A2)
 
 - title: Education
   type: time_table
@@ -24,6 +24,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: University of Zaragoza
+      year: 2025 - 2026
     - title: Graduate Research Assistant
       institution: Wright Laboratory, Yale University
       year: 2020 - 2025
