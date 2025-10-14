@@ -27,13 +27,13 @@
     - title: Postdoctoral Researcher
       institution: CAPA, University of Zaragoza
       year: 2025 - 2026
-    - title: Graduate Research Assistant
+    - title: Graduate Student Researcher
       institution: Wright Laboratory, Yale University
       year: 2020 - 2025
-    - title: Visiting Researcher
+    - title: Visiting Graduate Student Researcher
       institution: University of Zaragoza
       year: 2023 - 2025
-    - title: Nuclear Physics Intern
+    - title: Science Undergraduate Laboratory Intern
       institution: Brookhaven National Laboratory
       year: 2019, 2020
     - title: Plasma Physics Intern
@@ -43,11 +43,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+        - Best Three Students Speakers Prize at COST Action Cosmic WISPers Training School Annecy
     - year: 2024
       items:
         - International Workshop for Identification of Dark Matter (IDM) Young Scientist Support Grant 
     - year: 2020
       items:
-        - Leigh Page Prize 
-        - G. Howard Carragan Award
+        - Yale Leigh Page Prize 
+        - Rensselaer G. Howard Carragan Award
 
