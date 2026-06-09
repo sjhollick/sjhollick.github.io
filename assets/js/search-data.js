@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "Publications can also be viewed on [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=Yg9xL00AAAAJ) and [InspireHEP](https://inspirehep.net/authors/2789719)",
+          description: "Publications can also be viewed on InspireHEP and Google Scholar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Publications/";
