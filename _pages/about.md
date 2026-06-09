@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, Postdoctoral Research Assistant at <a href='https://unizar.es/'>Universidad de Zaragoza</a>. 
+subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, Postdoctoral Researcher at <a href='https://capa.unizar.es/'>CAPA - Universidad de Zaragoza</a>. 
 
 profile:
   align: right
