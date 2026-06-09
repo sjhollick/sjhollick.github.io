@@ -40,10 +40,14 @@
       institution: University of New Hampshire
       year: 2016 - 2018
 
-- title: Honors and Awards
+- title: Honors, Grants, and Awards
   type: time_table
   contents:
+    - year: 2026
+        items:
+        - Short Term Scientific Mission Grant with COST Action Cosmic WISPers
     - year: 2025
+        items:
         - Best Three Students Speakers Prize at COST Action Cosmic WISPers Training School Annecy
     - year: 2024
       items:
