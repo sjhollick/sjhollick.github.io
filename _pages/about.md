@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, Postdoctoral Researcher at <a href='https://www.dfa.unipd.it/'>Università Degli Studi di Padova - Dipartimento di Fisica e Astronomia G. Galilei co-affiliated with INFN Padova Division</a>. 
+subtitle: PhD, <a href='https://physics.yale.edu/'>Yale University</a>, Postdoctoral Researcher at <a href='https://www.dfa.unipd.it/'>Università Degli Studi di Padova - Dipartimento di Fisica e Astronomia G. Galilei</a> co-affiliated with <a href='https://www.pd.infn.it/eng/'>INFN Padova Division</a>. 
 
 profile:
   align: right
