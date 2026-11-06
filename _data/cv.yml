@@ -25,8 +25,7 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Università Degli Studi di Padova
-      institution: INFN Sezione di Padova
+      institution: Università Degli Studi di Padova -- INFN Sezione di Padova
       year: 2026 - present
     - title: Postdoctoral Researcher
       institution: CAPA, University of Zaragoza
