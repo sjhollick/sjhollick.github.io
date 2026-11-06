@@ -12,8 +12,7 @@
       "countryCode": "Spain",
       "region": "Aragon"
     },
-    "profiles": [
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -34,7 +33,7 @@
       "area": "Physics",
       "studyType": "PhD",
       "startDate": "2020-08",
-      "endDate": "2020-05",
+      "endDate": "2020-05"
     }
   ],
   "awards": [
@@ -51,11 +50,7 @@
       "name": "Physics",
       "level": "PhD",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Dark Matter Direct Detection",
-        "NaI(Tl) Scintillators",
-        "Data Analysis"
-      ]
+      "keywords": ["Dark Matter Direct Detection", "NaI(Tl) Scintillators", "Data Analysis"]
     }
   ],
   "languages": [
@@ -63,7 +58,7 @@
       "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },    
+    },
     {
       "language": "Spanish",
       "fluency": "C1",
