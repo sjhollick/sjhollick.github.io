@@ -4,14 +4,14 @@
     - name: Full Name
       value: Sophia J. Hollick, PhD
     - name: Email
-      value: shollick@unizar.es
+      value: sophia.hollick@pd.infn.it
     - name: Languages
-      value: English (Native), Spanish (B2), German (A2)
+      value: English (Native), Spanish (B2), German (B1), Italian (A2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Masters
+    - title: PhD Physics, Masters Physics
       institution: Yale University
       year: 2025
       description:
@@ -24,6 +24,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Università Degli Studi di Padova
+      institution: INFN Sezione di Padova
+      year: 2026 - present
     - title: Postdoctoral Researcher
       institution: CAPA, University of Zaragoza
       year: 2025 - 2026
@@ -45,6 +49,7 @@
   contents:
     - year: 2026
       items:
+        - Juan de la Cierva Postdoctoral Research Fellowship (Declined for other offer)
         - Short Term Scientific Mission Grant with COST Action Cosmic WISPers
     - year: 2025
       items:
